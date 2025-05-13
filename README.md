@@ -15,11 +15,14 @@ Sleep stage classifier on EEG signal data implementing a Dynamic Bayesian Networ
 📈 Outperforms CNN baselines! <i>Journal publication in progress: check LinkedIn for updates!</i>
 
 Academic Projects:
-- Computer Vision: [Facial Recognition](https://github.com/rlhinrichs/edge-detection)
-- Computer Vision: [Biometric Authentication](https://github.com/rlhinrichs/fingerprints)
-- Natural Language Processing: [Medical Diagnosis Generator](https://github.com/rlhinrichs/lang-learn)
-- Deep Learning: [Tri-Axial Gyroscope Classifier](https://github.com/rlhinrichs/neural-networks)
-- Data Mining: [Tumor Classification & Dimensionality Reduction](https://github.com/rlhinrichs/tumor-classification)
-- Robotics: [Embedded Systems, Object Detection, Kinematics](https://github.com/rlhinrichs/intro-robo)
-- Decision Planning: [The Wumpus](https://github.com/rlhinrichs/wumpus)
-- Decision Making: [Search](https://github.com/rlhinrichs/search)
+- Computer Vision: [Facial Recognition](https://github.com/1derwoman/edge-detection)
+- Computer Vision: [Biometric Authentication](https://github.com/1derwoman/fingerprints)
+- Natural Language Processing: [Medical Diagnosis Generator](https://github.com/1derwoman/lang-learn)
+- Deep Learning: [Tri-Axial Gyroscope Classifier](https://github.com/1derwoman/neural-networks)
+- Data Mining: [Tumor Classification & Dimensionality Reduction](https://github.com/1derwoman/tumor-classification)
+- Robotics: [Embedded Systems, Object Detection, Kinematics](https://github.com/1derwoman/intro-robo)
+- Decision Planning: [The Wumpus](https://github.com/1derwoman/wumpus)
+- Decision Making: [Search Optimization](https://github.com/1derwoman/search)
+
+These files are walkthrough files intended to guide the reader through my approach.  
+In an effort to support my professors, source codes for assigned projects are stored in private repositories & available by request.
